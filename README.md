@@ -5,7 +5,7 @@
 
 ## Tentang Repositori Ini
 
-Repositori ini akan digunakan sebagai halaman utama **botjev.github.io** sekaligus ruang kolaborasi pengembangan proyek dan aset digital.
+Repositori ini digunakan sebagai halaman utama **botjev.github.io** sekaligus ruang kolaborasi pengembangan proyek dan aset digital.
 
 ## Kolaborasi
 
